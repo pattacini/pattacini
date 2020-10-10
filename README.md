@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ugo Pattacini</h1>
-<h3 align="center">A technologist researcher in Humanoid Robotics at <a href="https://iit.it/research/facilities/icub-tech">iCub-Tech@IIT</></h3>
+<h3 align="center">Technologist researcher in Humanoid Robotics at <a href="https://iit.it/research/facilities/icub-tech">iCub-Tech@IIT</></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pattacini&label=Profile%20views&color=0e75b6&style=flat" alt="pattacini" /> </p>
 
