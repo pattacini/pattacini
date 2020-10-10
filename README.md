@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on [https://spectrum.chat/icub](https://spectrum.chat/icub)
 
-- 💬 Ask me about **Humanoid Robotics, Control Engineering, Optimization, Real-Time Systems, Software Engineering**
+- 💬 Ask me about **Humanoid Robotics, Control Engineering, Optimization, Real-Time Systems, Software Engineering, EdTech**
 
 - 📫 How to reach me **ugo.pattacini@iit.it**
 
