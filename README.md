@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Robotics**
 
-- 📝 I regulary write articles on the [Robotology Community](https://github.com/robotology/QA/discussions)
+- 📝 I regulary write articles on the [Robotology Community](https://github.com/robotology/community/discussions)
 
 - 💬 Ask me about **Humanoid Robotics, Control Engineering, Optimization, Real-Time Systems, Software Engineering, EdTech**
 
