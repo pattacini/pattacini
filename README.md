@@ -21,6 +21,7 @@
 <a href="https://robotics.stackexchange.com/users/6941" target="blank"><img align="center" src="./assets/se-icon.svg" alt="123" height="30" width="-1" /></a>
 <a href="https://education.github.community/u/pattacini" target="blank"><img align="center" src="./assets/gh-education.png" alt="123" height="30" width="-1" /></a>
 <a href="https://scholar.google.com/citations?user=4woRur0AAAAJ" target="blank"><img align="center" src="./assets/google-scholar.svg" alt="123" height="30" width="-1" /></a>
+<a href="https://publons.com/researcher/136334/ugo-pattacini" target="blank"><img align="center" src="./assets/publons.png" alt="123" height="30" width="-1" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattacini&layout=compact&show_icons=true&theme=nord&count_private=true" alt="pattacini" /></p>
