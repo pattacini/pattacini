@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ugo.pattacini@iit.it**
 
-- 📄 Know about my experiences [https://iit.it/people/ugo-pattacini](https://iit.it/people/ugo-pattacini)
+- 📄 Know about my experiences [https://www.iit.it/people/ugo-pattacini](https://www.iit.it/people/ugo-pattacini)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
