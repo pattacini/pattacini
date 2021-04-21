@@ -15,14 +15,13 @@ jobs:
           github_user_name: pattacini
           svg_out_path: github-user-contribution.svg
 
+      - uses: actions/checkout@master
       - name: Update Repo
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          cd ${GITHUB_WORKSPACE}
-          git clone https://github.com/${{ github.repository }}.git profile-repo
-          mv github-user-contribution.svg profile-repo/assets
-          cd profile-repo
-          git commit -am "github-contribution-grid-snake updated"
+          git config --global push.default upstream
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          cp ../github-user-contribution.svg ./assets
+          git commit -am "github-user-contribution updated"
           git push
