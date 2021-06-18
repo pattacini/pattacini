@@ -1,4 +1,4 @@
-<h2 align="center">🤖 Technologist researcher in Humanoid Robotics at <a href="https://iit.it/research/facilities/icub-tech">iCub-Tech@IIT</a></h2>
+<h2 align="center">🤖 Technologist researcher in Humanoid Robotics at <a href="https://www.iit.it/web/icub-tech">iCub-Tech@IIT</a></h2>
 <h2 align="center">:octocat: GitHub <a href="https://education.github.com/teachers/advisors">Campus Advisor</a></h2>
 
 <p align="center"> <img src="./assets/github-user-contribution.svg" /> </p>
