@@ -5,6 +5,8 @@
 
 <p align="center"> <img src="./assets/github-user-contribution.svg" /> </p>
 
+Check out my [**`Contribution Skyline`**](https://skyline.github.com/pattacini/2021) ✨
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pattacini&label=Profile%20views&color=0e75b6&style=flat" alt="pattacini" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pattacini&theme=nord" alt="pattacini" /></a> </p>
