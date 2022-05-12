@@ -5,7 +5,9 @@
 
 <p align="center"> <img src="./assets/github-user-contribution.svg" /> </p>
 
-Check out my [**`Contribution Skyline`**](https://skyline.github.com/pattacini) ✨
+Check out my:
+- ✨ [**`Contribution Skyline`**](https://skyline.github.com/pattacini)
+- 📜 [**`GitHub Résumé`**](https://resume.github.io/?pattacini)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pattacini&label=Profile%20views&color=0e75b6&style=flat" alt="pattacini" /> </p>
 
