@@ -22,7 +22,6 @@
 <p align="center"> <img src="./assets/github-user-contribution.svg" /> </p>
 
 ### Check out my
-- ✨ [**`Contribution Skyline`**](https://skyline.github.com/pattacini)
 - 📜 [**`GitHub Résumé`**](https://resume.github.io/?pattacini)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pattacini&theme=nord" alt="pattacini" /></a> </p>
