@@ -10,6 +10,7 @@
 - 📄 Know about my experiences [https://www.iit.it/people/ugo-pattacini](https://www.iit.it/people/ugo-pattacini)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pattacini&label=Profile%20views&color=0e75b6&style=flat" alt="pattacini" /> </p>
+
 📜 [**`My GitHub Résumé`**](https://resume.github.io/?pattacini)
  
 ### Connect with me
