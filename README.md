@@ -3,8 +3,8 @@
 <h2 align="center">🤖 Technologist researcher in Humanoid Robotics at <a href="https://www.iit.it/web/icub-tech">iCub–Tech@IIT</a></h2>
 <h2 align="center">:octocat: GitHub <a href="https://education.github.com/teachers/advisors">Campus Advisor</a></h2>
 
-- 🔭 I’m currently working on **Robotics**
-- 📝 I regulary write articles on the [Robotology Community](https://github.com/robotology/community/discussions)
+- 🔭 I’m currently working on **Humanoid Robotics**
+- 📝 I sometimes post articles on the [Robotology Community](https://github.com/robotology/community/discussions)
 - 💬 Ask me about **Humanoid Robotics, Control Engineering, Optimization, Real-Time Systems, Software Engineering, EdTech**
 - 📫 How to reach me **ugo.pattacini@iit.it**
 - 📄 Know about my experiences [https://www.iit.it/people/ugo-pattacini](https://www.iit.it/people/ugo-pattacini)
