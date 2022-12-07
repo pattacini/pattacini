@@ -1,6 +1,6 @@
 <p align="center"> <img src="./assets/dunning-kruger.jpg" /> </p>
 
-<h2 align="center">🤖 Technologist researcher in Humanoid Robotics at <a href="https://www.iit.it/web/icub-tech">iCub–Tech@IIT</a></h2>
+<h2 align="center">🤖 Technologist in Humanoid Robotics at <a href="https://www.iit.it/web/icub-tech">iCub–Tech@IIT</a></h2>
 <h2 align="center">:octocat: GitHub <a href="https://education.github.com/teachers/advisors">Campus Advisor</a></h2>
 
 - 🔭 I’m currently working on **Humanoid Robotics**
