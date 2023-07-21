@@ -27,5 +27,5 @@ jobs:
           git config --global push.default upstream
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git add assets
-          git commit -am "github-user-contribution updated"
+          git commit -m "github-user-contribution updated"
           git push
