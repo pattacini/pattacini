@@ -10,11 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@master
-      - uses: Platane/snk@master
+      - uses: actions/checkout@main
+      - uses: Platane/snk@v3.0.0
         with:
-          github_user_name: pattacini
-          svg_out_path: assets/github-user-contribution.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-user-contribution.svg
+            assets/github-user-contribution.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update Repo
         run: |
