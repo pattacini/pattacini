@@ -20,7 +20,11 @@
 <a href="https://www.webofscience.com/wos/author/record/J-4652-2014" target="blank"><img align="center" src="./assets/wos.png" alt="123" height="30" width="-1" /></a>
 </p>
 
-<p align="center"> <img src="./assets/github-user-contribution.svg" /> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-user-contribution-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-user-contribution.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pattacini&theme=nord" alt="pattacini" /></a> </p>
 
