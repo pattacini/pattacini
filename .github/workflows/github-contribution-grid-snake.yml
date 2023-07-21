@@ -16,7 +16,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             assets/github-user-contribution.svg
-            assets/github-user-contribution.svg?palette=github-dark
+            assets/github-user-contribution-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
