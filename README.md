@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Humanoid Robotics**
 - 📝 I sometimes post articles on the [Robotology Community](https://github.com/robotology/community/discussions)
-- 💬 Ask me about **Humanoid Robotics, Control Engineering, Optimization, Real-Time Systems, Software Engineering, Digital Engineering, EdTech**
+- 💬 Ask me about **Humanoid Robotics, Control / Software / Digital Engineering, Optimization, Real-Time Systems, EdTech**
 - 📫 How to reach me **ugo.pattacini@iit.it**
 - 📄 Know about my experiences [https://www.iit.it/people/ugo-pattacini](https://www.iit.it/people/ugo-pattacini)
 - ✨ [**`Contribution Skyline`**](https://skyline.github.com/pattacini)
