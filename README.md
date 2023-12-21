@@ -8,7 +8,7 @@
 - 💬 Ask me about **Humanoid Robotics, Control / Software / Digital Engineering, Optimization, Real-Time Systems, EdTech**
 - 📫 How to reach me **ugo.pattacini@iit.it**
 - 📄 Know about my experiences [https://www.iit.it/people/ugo-pattacini](https://www.iit.it/people/ugo-pattacini)
-- ✨ [**`Contribution Skyline`**](https://skyline.github.com/pattacini)
+- ✨ [**`Contribution Skyline`**](https://skyline.github.com/)
 - 📜 [**`My GitHub Résumé`**](https://resume.github.io/?pattacini)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pattacini&label=Profile%20views&color=0e75b6&style=flat" alt="pattacini" /> </p>
