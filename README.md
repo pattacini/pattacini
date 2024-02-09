@@ -16,6 +16,7 @@
 ### Connect with me
 <p align="left">
 <a href="https://robotics.stackexchange.com/users/6941" target="blank"><img align="center" src="./assets/se-icon.svg" alt="123" height="30" width="-1" /></a>
+<a href="https://www.mathworks.com/matlabcentral/profile/authors/1007719" target="blank"><img align="center" src="./assets/matlab.png" alt="123" height="30" width="-1" /></a>
 <a href="https://scholar.google.com/citations?user=4woRur0AAAAJ" target="blank"><img align="center" src="./assets/google-scholar.svg" alt="123" height="30" width="-1" /></a>
 <a href="https://www.webofscience.com/wos/author/record/J-4652-2014" target="blank"><img align="center" src="./assets/wos.png" alt="123" height="30" width="-1" /></a>
 </p>
