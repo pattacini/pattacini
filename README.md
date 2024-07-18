@@ -19,6 +19,7 @@
 <a href="https://www.mathworks.com/matlabcentral/profile/authors/1007719" target="blank"><img align="center" src="./assets/matlab.png" alt="123" height="30" width="-1" /></a>
 <a href="https://scholar.google.com/citations?user=4woRur0AAAAJ" target="blank"><img align="center" src="./assets/google-scholar.svg" alt="123" height="30" width="-1" /></a>
 <a href="https://www.webofscience.com/wos/author/record/J-4652-2014" target="blank"><img align="center" src="./assets/wos.png" alt="123" height="30" width="-1" /></a>
+<a href="https://outlook.office.com/bookwithme/user/0dc1d8d9afd34179b0626f05df8b63f4@iit.it?anonymous" target="blank"><img align="center" src="./assets/bookings.png" alt="123" height="30" width="-1" /></a>
 </p>
 
 <picture>
