@@ -18,7 +18,7 @@ jobs:
       - name: Generate GitHub Contribution Skyline
         run: |
           gh extension install github/gh-skyline
-          gh skyline --user ${{ github.actor }} --full --output assets/github-user-skyline.svg
+          gh skyline --user ${{ github.actor }} --full --output assets/github-user-skyline.stl
 
       - name: Update Repo
         run: |
