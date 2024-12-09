@@ -1,0 +1,30 @@
+name: Generate GitHub Contribution Skyline
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * SUN"
+env:
+  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@main
+      - name: Generate GitHub Contribution Skyline
+        run: |
+          gh auth login
+          gh extension install github/gh-skyline
+          gh skyline --user ${{ github.actor }} --full --output assets/gh-user-skyline.svg
+
+      - name: Update Repo
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git config --global push.default upstream
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
+          git add assets
+          git commit -m "github-skyline updated"
+          git push

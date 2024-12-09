@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "0 0 * * SUN"
 
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -17,15 +20,13 @@ jobs:
           outputs: |
             assets/github-user-contribution.svg
             assets/github-user-contribution-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update Repo
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git config --global push.default upstream
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           git add assets
           git commit -m "github-user-contribution updated"
           git push
