@@ -4,8 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * SUN"
-env:
-  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   generate:
@@ -15,9 +13,10 @@ jobs:
       - uses: actions/checkout@main
       - name: Generate GitHub Contribution Skyline
         run: |
-          gh auth login
           gh extension install github/gh-skyline
           gh skyline --user ${{ github.actor }} --full --output assets/gh-user-skyline.svg
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update Repo
         run: |
@@ -28,3 +27,5 @@ jobs:
           git add assets
           git commit -m "github-skyline updated"
           git push
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

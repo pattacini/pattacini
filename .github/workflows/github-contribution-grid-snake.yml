@@ -5,9 +5,6 @@ on:
   schedule:
     - cron: "0 0 * * SUN"
 
-env:
-  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -20,6 +17,8 @@ jobs:
           outputs: |
             assets/github-user-contribution.svg
             assets/github-user-contribution-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update Repo
         run: |
@@ -30,3 +29,5 @@ jobs:
           git add assets
           git commit -m "github-user-contribution updated"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
