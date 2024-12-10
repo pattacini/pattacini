@@ -3,7 +3,7 @@ name: Generate GitHub Contribution Grid Snake
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * SUN"
+    - cron: "0 0 1 * *"
 
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
