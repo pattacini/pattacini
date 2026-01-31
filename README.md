@@ -27,10 +27,3 @@
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-user-contribution.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pattacini&theme=nord" alt="pattacini" /></a> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattacini&layout=compact&show_icons=true&theme=nord&count_private=true" alt="pattacini" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pattacini&show_icons=true&theme=nord&count_private=true" alt="pattacini" /></p>
